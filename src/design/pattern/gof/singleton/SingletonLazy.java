@@ -1,4 +1,4 @@
-package design.pattern.gof;
+package design.pattern.gof.singleton;
 
 public class SingletonLazy {
     private static SingletonLazy instancia;
